@@ -87,8 +87,10 @@ Manizales, Caldas, Colombia (Remote)
 
 ### Technician in Software Programming
 - Servicio Nacional de Aprendizaje SENA, Manizales, Caldas, Colombia – 2017-2018
+
 ### Technologist in Software Analysis and Development 
 - Servicio Nacional de Aprendizaje SENA, Manizales, Caldas, Colombia – 2019-2021
+
 ### Bachelor of Systems Engineering and Computer Science
 - Caldas University, Manizales, Caldas, Colombia – 2022-2027
 
