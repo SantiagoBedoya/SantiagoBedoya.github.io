@@ -1,21 +1,19 @@
-# Santiago Bedoya
-
-**Senior Software Engineer**
-
+## Senior Software Engineer
 Manizales, Caldas, Colombia
-
-## Contact
-
 - Email: [a.sbedoya200110@gmail.com](mailto:a.sbedoya200110@gmail.com)
-- Phone: + 57 (304) 348-5901
-- [LinkedIn](https://www.linkedin.com/in/santiago-bedoya-arcila/)
+- LinkedIn: [https://www.linkedin.com/in/santiago-bedoya-arcila/](https://www.linkedin.com/in/santiago-bedoya-arcila/)
+- GitHub: [https://github.com/SantiagoBedoya](https://github.com/SantiagoBedoya)
+
+## Summary
+
+Passionate software engineer with over 7 years of experience designing and developing cloud-native and data systems at scale. Specialized in Golang, Python, and microservices architectures, with solid experience in Apache Airflow, AWS (ECS, Lambda, EKS, Redshift), and PostgreSQL databases. Proven technical leader in transforming monolithic applications into microservices, optimizing data pipelines, and developing SSO solutions. Currently a Senior Software Engineer at EPAM Systems, where I contribute to architectural decisions and leverage AI tools to improve development quality and efficiency. I combine deep technical expertise with leadership skills in agile teams and distributed systems.
 
 ## Professional Experience
 
 ### EPAM Systems
 Manizales, Caldas, Colombia (Remote)
 
-**Senior Software Engineer | 2025-Present**
+**Senior Software Engineer - 2025-Present**
 
 - As a Senior Software Engineer, I contribute to the design and development of data-driven, cloud-native systems. My work focuses on building and orchestrating scalable data pipelines using Apache Airflow, Astronomer, and Redshift, as well as developing backend services in Golang and maintaining Python/Django applications integrated with PostgreSQL. I collaborate on architectural decisions to improve system performance and scalability, working within agile environments and leveraging AI-assisted tools such as ChatGPT and Cursor to enhance development efficiency and code quality.
 
@@ -26,7 +24,7 @@ Manizales, Caldas, Colombia (Remote)
 ### Globant
 Manizales, Caldas, Colombia (Remote)
 
-**Senior Software Engineer II — Go Software Designer | 2024-2025**
+**Senior Software Engineer II — Go Software Designer - 2024-2025**
 
 - As a Senior Software Engineer II, I contributed to the design, maintenance, and evolution of cloud-native backend systems using Golang. My work centered on improving and extending existing microservices deployed on AWS ECS and Lambda, as well as services running on EKS with service mesh integration to support secure, observable communication. I worked with both synchronous (HTTP, gRPC) and asynchronous (Kafka, RabbitMQ) patterns to ensure reliability and scalability. I collaborated on architectural decisions to improve performance, observability, and maintainability across services. Additionally, I worked with CI/CD pipelines using Jenkins and Spinnaker to support automated deployments, and used AWS services like CloudWatch, Kinesis, and Vault to manage monitoring, streaming data, and secrets securely.
 
@@ -38,7 +36,7 @@ Manizales, Caldas, Colombia (Remote)
 ### Wizeline
 Manizales, Caldas, Colombia (Remote)
 
-**Software Engineer | 2022-2024**
+**Software Engineer - 2022-2024**
 
 - Accomplished Senior Software Engineer with a proven track record of driving innovation and enhancing key functionalities for industry-leading companies. Specializing in architecting and optimizing Single Sign-On (SSO) solutions, constructing intuitive administrative frontends, and developing robust APIs. Proficient in utilizing a diverse tech stack including Next.js, Golang, Python, GraphQL, and AWS services to deliver cutting-edge software solutions.
 
@@ -51,7 +49,7 @@ Manizales, Caldas, Colombia (Remote)
 ### DrakeTech
 Manizales, Caldas, Colombia (Remote)
 
-**Senior Software Engineer | 2021-2022**
+**Senior Software Engineer - 2021-2022**
 
 - Backend Development Leadership: Played a central role in backend development initiatives, employing advanced technologies including TypeScript, Golang, Nest.js, and Node.js. Led the design and implementation of scalable and efficient Rest APIs, ensuring seamless integration with frontend systems and third-party services.
 - Real-time Communication Services Implementation: Spearheaded the implementation of real-time communication services using Socket.IO, facilitating dynamic and responsive features within applications. Collaborated closely with cross-functional teams to understand user requirements and deliver solutions that exceed expectations.
@@ -60,40 +58,51 @@ Manizales, Caldas, Colombia (Remote)
 ### Geek City Experiences
 Manizales, Caldas, Colombia (Remote)
 
-**Senior Software Engineer | 2020-2021**
+**Senior Software Engineer - 2020-2021**
 
 - Designed and developed a comprehensive platform for electronic gaming and national tournaments, integrating various services such as email and SMS marketing. Facilitated the buying and selling of services like Netflix and Spotify through strategic partnerships with companies like Susuerte and Facilisimo. Led the design and migration of applications from a monolithic architecture to a microservices architecture using Golang.
 
 ### Softipal - IT & Software House
 Manizales, Caldas, Colombia (Remote)
 
-**Software Developer | 2020-2021**
+**Software Developer - 2020-2021**
 
 - As a Full-Stack Developer in the realm of E-Learning platforms, I adeptly utilized a range of technologies, including PHP, Angular.js, React.js, Angular, Node.js, and Laravel. My responsibilities encompassed the development of REST APIs and the creation of simulators tailored for national energy companies.
 
 ### Servicio Nacional de Aprendizaje (SENA)
 Manizales, Caldas, Colombia (Remote)
 
-**Software Monitor | 2020-2020**
+**Software Monitor - 2020-2020**
 
 - Architecting an educational institution-focused social network using a tech stack comprising Laravel, Node.js, Vue, and React.js. Integrating web services with Golang, incorporating a notification system through Amazon Web Services SQS, and orchestrating deployment on a Kubernetes (K8S) cluster.
 
 ### Freelance
 Manizales, Caldas, Colombia (Remote)
 
-**Software Developer | 2017-2020**
+**Software Developer - 2017-2020**
 
 - As a Freelance Developer, I engaged in diverse projects encompassing parking systems, restaurant management systems, and inventory solutions. Proficiently utilizing a range of technologies, I leveraged my skills in PHP, Python, Javascript, and Node.js to deliver effective and tailored solutions across various domains.
 
 ## Education
 
+### Technician in Software Programming
+- Servicio Nacional de Aprendizaje SENA, Manizales, Caldas, Colombia – 2017-2018
+### Technologist in Software Analysis and Development 
+- Servicio Nacional de Aprendizaje SENA, Manizales, Caldas, Colombia – 2019-2021
 ### Bachelor of Systems Engineering and Computer Science
+- Caldas University, Manizales, Caldas, Colombia – 2022-2027
 
-Caldas University
-Manizales, Caldas, Colombia
+## Skills
+**Languages:** Go (Golang), Python, JavaScript, TypeScript, PHP.
 
-2022-2027
+**Frameworks & Libraries:** Django, NestJS, Next.js, Angular, React.js, gRPC, Socket.IO, REST API.
 
-## Technical Skills
+**Cloud & DevOps:** AWS (ECS, Lambda, EKS, CloudWatch, Kinesis, Vault), Docker, Kubernetes (K8S), Jenkins, Spinnaker, CI/CD pipelines.
 
-Nodejs, Typescript, Golang, Python
+**Data & Analytics:** Apache Airflow, Astronomer, Amazon Redshift, Data pipelines orchestration.
+
+**Databases:** PostgreSQL, Amazon Redshift, MySQL, MongoDB.
+
+**Messaging & Streaming:** Kafka, RabbitMQ.
+
+**Other:** Agile methodologies, AI-assisted development tools (ChatGPT, Cursor)
