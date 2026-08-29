@@ -1,0 +1,5 @@
+# Pinned explicitly so a GitHub Actions build renders the same as the older
+# branch-based build did, which relied on Pages defaults.
+title: Santiago Bedoya Arcila
+description: Senior Software Engineer
+theme: jekyll-theme-primer
